@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnManager
+  - Grid
+  - SpawnRoom
+  - Room
+  - Manager
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3538642991
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entities
+    uniqueID: 237945707
+    locked: 0
+  - name: Effects
+    uniqueID: 3896426191
+    locked: 0
+  - name: UI
+    uniqueID: 3344432131
+    locked: 0
